@@ -1,0 +1,6 @@
+{
+  "name": "BLD MemoGen",
+  "description": "Offline 3x3 Rubik's Cube Blindfolded (BLD) memo generator using Old Pochmann and M2 methods with the standard Speffz lettering scheme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
